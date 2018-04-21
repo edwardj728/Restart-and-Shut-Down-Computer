@@ -6,6 +6,7 @@ What will this do exactly?
 1. Open/run the script/program.
 2. The program will reboot or restart your computer.
 3. Once your computer is back on the desktop from the reboot, the program will shutdown your computer.
+4. Turn your computer on and enjoy it.
 
 What is this used for?
 
